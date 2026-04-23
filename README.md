@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/kawsarturjo1" target="blank"><img src="https://img.shields.io/twitter/follow/kawsarturjo1?logo=twitter&style=for-the-badge" alt="kawsarturjo1" /></a> </p>
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **PHP and LARAVEL**
+- 🌱 I’m currently learning **Javascript and React**
 
 - 👯 I’m looking to collaborate on **some big project**
 
