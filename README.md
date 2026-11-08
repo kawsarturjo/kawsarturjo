@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kawsar-mohammad-turjo)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawsarmohammadturjo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github)](https://github.com/kawsarturjo)
+[![Download CV](https://img.shields.io/badge/Download-CV-2E7D32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1VZnF9f2DlxiGgVl6pp3l0RQWaRy2X9mg)
 
 </div>
 
@@ -67,6 +67,7 @@ interests:
 
 ### 💻 Programming & Web
 
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python Basic](https://img.shields.io/badge/PYTHON%20(BASIC)-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -86,7 +87,7 @@ interests:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kawsarturjo&show_icons=true&theme=tokyonight" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=kawsarturjo&show_icons=true&theme=tokyonight" height="165"/> -->
 
 <img src="https://streak-stats.demolab.com?user=kawsarturjo&theme=tokyonight" height="165"/>
 
@@ -94,23 +95,34 @@ interests:
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Most Used Languages
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kawsarturjo&theme=onedark&no-frame=true&row=1&column=6"/>
-
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kawsarturjo&layout=compact&theme=tokyonight&hide_border=true" 
+       alt="Most Used Languages"
+       width="400" />
+</p>
 
 ---
 
-## 📈 Activity Graph
+## 📅 GitHub Contribution Calendar
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kawsarturjo&theme=tokyo-night"/>
+  <a href="https://github.com/kawsarturjo">
+    <img
+      src="https://ghchart.rshah.org/58A6FF/kawsarturjo"
+      alt="Kawsar's GitHub Contribution Calendar"
+      width="100%"
+    />
+  </a>
+
+  <p>
+    <sub>Consistency is the key to growth. 🚀</sub>
+  </p>
 
 </div>
+
 ---
 
 ## 🔥 Featured Projects
@@ -177,7 +189,7 @@ API integration testing project using Postman, Newman, JavaScript assertions, an
 
 [![Email](https://img.shields.io/badge/EMAIL-ME-EA4335?style=for-the-badge&logo=gmail)](mailto:kawsarmohammadturjo@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-VISIT-181717?style=for-the-badge&logo=github)](https://github.com/kawsarturjo)
+[![Download CV](https://img.shields.io/badge/Download-CV-2E7D32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1VZnF9f2DlxiGgVl6pp3l0RQWaRy2X9mg)
 
 </div>
 
