@@ -5,7 +5,7 @@
 
 ### SQA Intern | Software Quality Assurance
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kawsar-mohammad-turjo)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawsarmohammadturjo@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download-CV-2E7D32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1VZnF9f2DlxiGgVl6pp3l0RQWaRy2X9mg)
 
