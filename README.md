@@ -6,7 +6,7 @@
 ### SQA Intern | Software Quality Assurance
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kawsar-mohammad-turjo)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail)](mailto:kawsarmohammadturjo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawsarmohammadturjo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github)](https://github.com/kawsarturjo)
 
 </div>
@@ -45,12 +45,12 @@ interests:
 
 ### 🧪 QA & Testing
 
-![Manual Testing](https://img.shields.io/badge/MANUAL%20TESTING-FF6C37?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API%20TESTING-FF6C37?style=for-the-badge)
-![Functional Testing](https://img.shields.io/badge/FUNCTIONAL%20TESTING-FF6C37?style=for-the-badge)
-![Integration Testing](https://img.shields.io/badge/INTEGRATION%20TESTING-FF6C37?style=for-the-badge)
-![Smoke Testing](https://img.shields.io/badge/SMOKE%20TESTING-FF6C37?style=for-the-badge)
-![Regression Testing](https://img.shields.io/badge/REGRESSION%20TESTING-FF6C37?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual-Testing-FF6C37?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API-Testing-FF6C37?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional-Testing-2E8B57?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/Integration-Testing-6A5ACD?style=for-the-badge)
+![Smoke Testing](https://img.shields.io/badge/Smoke-Testing-FF8C00?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression-Testing-800080?style=for-the-badge)
 
 ### 🧰 API Testing & Validation
 
@@ -86,9 +86,9 @@ interests:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kawsarturjo&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kawsarturjo&show_icons=true&theme=tokyonight" height="165"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarturjo&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=kawsarturjo&theme=tokyonight" height="165"/>
 
 </div>
 
@@ -98,7 +98,7 @@ interests:
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kawsarturjo&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=kawsarturjo&theme=onedark&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -108,10 +108,9 @@ interests:
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kawsarturjo&theme=github-compact&hide_border=true)](https://github.com/kawsarturjo)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kawsarturjo&theme=tokyo-night"/>
 
 </div>
-
 ---
 
 ## 🔥 Featured Projects
